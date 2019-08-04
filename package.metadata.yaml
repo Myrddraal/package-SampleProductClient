@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+Projects:
+  SampleProductClient: SampleProductClient.csproj
+
+Version: 1.0.0

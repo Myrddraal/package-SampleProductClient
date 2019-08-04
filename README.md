@@ -1,2 +1,2 @@
-# package-SampleClient
+# package-SampleProductClient
 Sample client for CutAndDRY
